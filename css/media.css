@@ -1,0 +1,475 @@
+@media (min-width:1200px) and (max-width:1399px) {
+    .banar-text h1 {
+        font-size: 120px;
+        line-height: 130px;
+        margin-top: 0px;
+    }
+
+    .banar-text h2 {
+        font-size: 72px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .banar-text h1 {
+        font-size: 74px;
+        line-height: 74px;
+        margin-top: 0px;
+    }
+
+    .banar-text h2 {
+        font-size: 50px;
+        padding-bottom: 0px;
+    }
+
+    .banar-text h1::after {
+        bottom: -40px;
+    }
+
+    .banar-button {
+        margin-top: 88px;
+    }
+
+    .footer-form input {
+        width: 370px;
+    }
+
+    .footer-form button {
+        right: 6px;
+    }
+
+    .service-text p {
+        padding-right: 0px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .banar-text h1 {
+        font-size: 64px;
+        line-height: 70px;
+        margin-top: 0;
+    }
+
+    .banar-text h2 {
+        font-size: 50px;
+        padding-bottom: 0px;
+    }
+
+    .banar-text h1::after {
+        bottom: -30px;
+    }
+
+    .banar-button {
+        margin-top: 65px;
+    }
+
+    .navbar-nav {
+        background-image: linear-gradient(to top, hsla(0, 83%, 73%, 0.9), hsla(0, 83%, 73%, 0.9));
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px 0px;
+    }
+
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .about-heder p {
+        line-height: 28px;
+    }
+
+    .service-text p {
+        padding-right: 0px;
+    }
+
+    .medil {
+        padding-top: 0;
+    }
+
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .service-icon img {
+        padding-bottom: 20px;
+    }
+
+    .comment-text p {
+        font-size: 20px;
+        line-height: 29px;
+    }
+
+    .counter-text h5 {
+        font-size: 50px;
+    }
+
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .blogs-heder h1 {
+        padding-top: 20px;
+    }
+
+    .footer-form button {
+        right: 276px;
+    }
+
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    #banar {
+        padding-bottom: 1px;
+    }
+
+    .banar-text h2 {
+        font-size: 30px;
+        padding-bottom: 4px;
+    }
+
+    .banar-text h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-top: 10px;
+    }
+
+    .banar-text-items {
+        padding-top: 30px;
+    }
+
+    .banar-text h1::after {
+        bottom: -20px;
+    }
+
+    .banar-button {
+        margin-top: 50px;
+    }
+
+    .navbar-nav {
+        background-image: linear-gradient(to top, hsla(0, 83%, 73%, 0.9), hsla(0, 83%, 73%, 0.9));
+    }
+
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .comment-text p {
+        font-size: 17px;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .comment-text h6 {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .comment-text h6::after {
+        display: none;
+    }
+
+    .service-text p {
+        padding-right: 0px;
+    }
+
+    .medil {
+        padding-top: 0;
+    }
+
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .service-icon img {
+        padding-bottom: 20px;
+    }
+
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .blogs-heder h1 {
+        padding-top: 20px;
+    }
+}
+
+@media (max-width: 575.99px) {
+    #banar {
+        padding-bottom: 1px;
+    }
+
+    .banar-text h2 {
+        font-size: 18px;
+        padding-bottom: 4px;
+    }
+
+    .banar-text h1 {
+        font-size: 18px;
+        line-height: 10px;
+        margin-top: 10px;
+
+    }
+
+    .banar-text-items {
+        padding-top: 30px;
+    }
+
+    .banar-text h1::after {
+        display: none;
+    }
+
+    .banar-button {
+        margin-top: 20px;
+    }
+
+    .banar-button a {
+        padding: 5px 7px;
+        font-size: 13px;
+        border: 1px solid #fff;
+    }
+
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .navbar-nav {
+        background-image: linear-gradient(to top, hsla(0, 83%, 73%, 0.9), hsla(0, 83%, 73%, 0.9));
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: black;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px 0px;
+    }
+
+    .navbar-brand img {
+        color: #333;
+    }
+
+    #about {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .about-heder h2 {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+
+    .about-heder h1 {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+
+    .about-heder p {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+
+    .about-items {
+        margin-top: 0px;
+    }
+
+    #counter {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .counter-text h5 {
+        font-size: 20px;
+    }
+
+    .counter-text p {
+        font-size: 13px;
+        margin-top: 0px;
+
+    }
+
+    #service {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    .high {
+        padding-top: 10px;
+    }
+
+    .service-text p {
+        font-size: 13px;
+        line-height: 20px;
+        padding-right: 0px;
+    }
+
+    .service-text h5 {
+        padding-top: 10px;
+    }
+
+    .medil {
+        padding-top: 10px;
+    }
+
+    .comment-text p {
+        font-size: 13px;
+        line-height: 23px;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    #comment {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .comment-text h6 {
+        font-size: 18px;
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .comment-text h6::after {
+        display: none;
+    }
+
+    .footer-form input {
+        width: 100%;
+    }
+
+    #team {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    .team {
+        padding-top: 0px;
+    }
+
+    .team-content h2 {
+        margin-top: 15px;
+    }
+
+    .team-content p {
+        font-size: 13px;
+        margin-top: 0px;
+    }
+
+    #work {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .work {
+        padding-top: 0px;
+    }
+
+    .work-icon h6 {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+
+    .work-icon p {
+        font-size: 13px;
+        margin-top: 0px;
+    }
+
+    #slider-others {
+        padding-bottom: 10px;
+    }
+
+    #footer {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+
+    .footer-content p {
+        font-size: 13px;
+        padding-top: 10px;
+        line-height: 22px;
+        padding-right: 0px;
+    }
+
+    .footer-follow {
+        padding-top: 15px;
+    }
+
+    .follow-icon i {
+        font-size: 15px;
+    }
+
+    .follow-icon {
+        padding-top: 3px;
+    }
+
+    .follow-icon span {
+        font-size: 13px;
+        padding-right: 0px;
+    }
+
+    .footer-form {
+        padding-top: 15px;
+    }
+
+    .footer-form button {
+        top: 15px;
+        right: 0px;
+        width: 100px;
+        font-size: 13px;
+        padding: 11px;
+    }
+
+    .blogs-heder h1 {
+        color: #333333;
+        padding-top: 15px;
+        text-align: center;
+    }
+
+    .blogs-heder {
+        padding-bottom: 10px;
+    }
+
+    .blogs-text p {
+        font-size: 13px;
+        padding-right: 0;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .blogs-text h2 {
+        text-align: center;
+    }
+
+    .instagram-end {
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .blogs-items {
+        padding-bottom: 5px;
+    }
+
+    .back-to-top {
+        bottom: 20px;
+        right: 10px;
+    }
+}
